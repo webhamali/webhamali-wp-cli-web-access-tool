@@ -21,6 +21,10 @@ WebHamali WP CLI Web Access Tool is a secure, browser-based interface for runnin
 - **Optional IP Restriction & Command Limiting:**  
   Enhance security by restricting access to specific IPs and allowed commands.
 
+## Interface
+![Login Form](https://github.com/webhamali/webhamali-wp-cli-web-access-tool/blob/main/Login.png)
+![User Panel](https://github.com/webhamali/webhamali-wp-cli-web-access-tool/blob/main/Panel.png)
+
 ## Installation
 
 1. **Clone the Repository:**
